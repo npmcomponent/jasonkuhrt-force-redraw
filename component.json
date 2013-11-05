@@ -1,0 +1,12 @@
+{
+  "name": "force-redraw",
+  "repo": "jasonkuhrt/force-redraw",
+  "description": "Force the browser to repaint aaa n element",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": ["index.js"],
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "BSD-2-Clause"
+}
