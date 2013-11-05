@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "main": "index.js",
   "scripts": ["index.js"],
-  "keywords": [],
+  "keywords": ["redraw", "repaint", "rendering", "DOM", "hack"],
   "dependencies": {},
   "development": {},
   "license": "BSD-2-Clause"
